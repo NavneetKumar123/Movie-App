@@ -27,6 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.favourites-generes{
+  padding: 3rem;
+}
+.favourites-table{
+  padding:3rem ;
+
+}
 
 @keyframes App-logo-spin {
   from {
@@ -83,7 +90,7 @@
 
 .movies-button{
   position: absolute;
-  bottom: 13rem;
+  bottom: 1rem;
 }
 
 /*Mobile view*/
